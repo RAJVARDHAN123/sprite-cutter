@@ -4,7 +4,7 @@ Sprite sheet cutter/slicer
 
 A Python script that cuts sprite sheet into sprite images!
 
-Currently only work properly when sprites are laid out niely row by row (and possible no extra notes at the edges)
+Currently only work properly when sprites are laid out nicely row by row
 
 ## How to use
 
